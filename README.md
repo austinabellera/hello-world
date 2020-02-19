@@ -1,2 +1,3 @@
 # hello-world
-test repository
+
+Testing what a new branch does.
